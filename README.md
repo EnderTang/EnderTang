@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EnderTang
-- 👀 I’m interested in Java.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborat on 
-- 📫 How to reach me ...
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on anything about Java
+- 📫 How to reach me email: endertang1984@gmail.com
 
 <!---
 EnderTang/EnderTang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
