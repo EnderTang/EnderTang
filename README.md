@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EnderTang
-- 👀 I’m interested in Java
+- 👀 I’m interested in Emebbed System
 - 📫 How to reach me email: endertang1984@gmail.com
 
 <!---
