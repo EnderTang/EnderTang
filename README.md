@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EnderTang
-- 👀 I’m interested in Emebbed System
+- 👀 I’m interested in Embedded System
 - 📫 How to reach me email: endertang1984@gmail.com
 
 <!---
